@@ -1,0 +1,15 @@
+D:\MyCsh\app\bin\Debug\net6.0\app.exe
+D:\MyCsh\app\bin\Debug\net6.0\app.deps.json
+D:\MyCsh\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\MyCsh\app\bin\Debug\net6.0\app.dll
+D:\MyCsh\app\bin\Debug\net6.0\app.pdb
+D:\MyCsh\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\MyCsh\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCsh\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\MyCsh\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\MyCsh\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\MyCsh\app\obj\Debug\net6.0\app.dll
+D:\MyCsh\app\obj\Debug\net6.0\refint\app.dll
+D:\MyCsh\app\obj\Debug\net6.0\app.pdb
+D:\MyCsh\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\MyCsh\app\obj\Debug\net6.0\ref\app.dll
